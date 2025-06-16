@@ -1,0 +1,16 @@
+{
+  "name": "add-two-numbers",
+  "version": "1.0.0",
+  "description": "Add two numbers and return the sum",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "node-appwrite": "^14.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
